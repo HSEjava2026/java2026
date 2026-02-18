@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # java2026
 =======
 # Программирование на языке Java 2026
@@ -16,7 +15,6 @@
 [Лекции]()
 
 ## Лабораторные
-- [Лабораторная 1]()
-- [Лабораторная 2]()
+- [Лабораторная 1](https://github.com/HSEjava2026/java2026/blob/main/labs/task-1.md)
+- [Лабораторная 2](https://github.com/HSEjava2026/java2026/blob/main/labs/task-2.md)
 
->>>>>>> origin/master
