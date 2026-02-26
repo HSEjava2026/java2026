@@ -1,7 +1,7 @@
 # Программирование на языке Java 2026
 
 ## Information
-- [Таблица успеваемости/очередей]()
+- [Таблица успеваемости/очередей](https://docs.google.com/spreadsheets/d/1eSKqvhCZtIz3IGTljlJS2TZ4jvYgBkJ-9FRmqZFFcXE/edit?usp=sharing)
 - [Syllabus](https://github.com/HSEjava2026/.github/blob/main/profile/syllabus.md)
 - [Do/Don'ts](https://github.com/HSEjava2026/.github/blob/main/profile/do-donts.md)
 
@@ -10,9 +10,12 @@
 - [Подсказка по исправлению проблем с git](https://dangitgit.com/ru)
 
 ## Лекции
-[Лекции]()
+[Лекции](https://github.com/HSEjava2026/.github/tree/main/profile/lec)
 
-## Лабораторные
-- [Лабораторная 1](https://github.com/HSEjava2026/java2026/blob/main/labs/task-1.md)
-- [Лабораторная 2](https://github.com/HSEjava2026/java2026/blob/main/labs/task-2.md)
+## Ссылка на GitHub Classroom
+- [Лабораторная 1](https://classroom.github.com/a/MwjWMmVX)
+- [Лабораторная 2](https://classroom.github.com/a/7ecLTsyu)
+- [Лабораторная 3](https://classroom.github.com/a/7ecLTsyu)
+- [Лабораторная 4](https://classroom.github.com/a/xhTAZXU-)
+- [Лабораторная 5]()
 
